@@ -8,6 +8,7 @@ export default {
     "tinyhttp",
     "koa",
     "hapi",
+    "uexpress",
   ],
   hostname: "localhost",
 
